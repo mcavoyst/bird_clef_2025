@@ -12,3 +12,6 @@ tensorflow
 ipykernel
 kagglehub
 kaggle
+noisereduce
+pydub
+webrtcvad
