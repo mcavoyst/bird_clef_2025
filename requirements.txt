@@ -1,7 +1,14 @@
-tensorflow
 jupyter
 numpy
 pandas
 matplotlib
 scikit-learn
 seaborn
+tqdm
+kaggle
+librosa
+keras
+tensorflow
+ipykernel
+kagglehub
+kaggle
